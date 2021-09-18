@@ -1,0 +1,21 @@
+{
+  "name": "twitter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "crypto": "^1.0.1",
+    "dotenv": "^10.0.0",
+    "oauth-1.0a": "^2.2.6",
+    "request": "^2.88.2",
+    "twit": "^2.2.11"
+  }
+}
